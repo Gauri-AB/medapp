@@ -1,6 +1,6 @@
-# MedAppoint
+# MedApp
 
-MedAppoint is a Flask-based application for scheduling and managing healthcare appointments.
+MedApp is a Flask-based application for scheduling and managing healthcare appointments.
 
 ## Features
 
