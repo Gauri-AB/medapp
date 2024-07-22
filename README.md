@@ -22,18 +22,18 @@ MedAppoint is a Flask-based application for scheduling and managing healthcare a
    git clone https://github.com/yourusername/medappoint.git
    cd medappoint
 2.**Set Up Environment**
-    ```bash
+     
     python -m venv venv
     source venv/bin/activate  # or venv\Scripts\activate on Windows
     pip install -r requirements.txt
-
+    
 3.**Initialize Database**
-    ```bash
+    
     flask db upgrade
 
 4.**Run the App**
-  ```bash
-flask run
+    
+    flask run
 
 
 
